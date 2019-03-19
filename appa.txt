@@ -1,0 +1,18 @@
+Quiz 1:
+System Unit
+
+Observation:
+	*The computer's fan worked for onlya few minutes.
+	*The monitor won't turn on.
+	*The L.E.D. on the motherboard lights up.
+	*We think that the powersupply is not working well.
+	*The computer turns on for only a few seconds.
+Possible Solution:
+	*The fuse of the power supply needed to be replaced.
+	*Since the capacitor on the power supply bloated,it also needed to be replaced.
+	*We think that the power supply is the problem, so we conclude that the power supply will be replaced with a new power supply with the same specifiations.
+
+Quiz 2:
+Raspberry Pi
+
+	The Raspberry Pi is functioning well because the wires and the other cables are properly connected so there is a continous flow of electricity, and there is a built-in operating installed in it. It is also connected in the right source so there is no possibility that the unit may not function.
