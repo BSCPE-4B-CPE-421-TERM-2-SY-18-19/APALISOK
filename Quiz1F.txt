@@ -1,0 +1,13 @@
+Quiz 1:
+System Unit
+
+Observation:
+	*The computer's fan worked for onlya few minutes.
+	*The monitor won't turn on.
+	*The L.E.D. on the motherboard lights up.
+	*We think that the powersupply is not working well.
+	*The computer turns on for only a few seconds.
+Possible Solution:
+	*The fuse of the power supply needed to be replaced.
+	*Since the capacitor on the power supply bloated,it also needed to be replaced.
+	*We think that the power supply is the problem, so we conclude that the power supply will be replaced with a new power supply with the same specifiations.

@@ -1,0 +1,4 @@
+Quiz 2:
+Raspberry Pi
+
+	The Raspberry Pi is functioning well because the wires and the other cables are properly connected so there is a continous flow of electricity, and there is a built-in operating installed in it. It is also connected in the right source so there is no possibility that the unit may not function.
